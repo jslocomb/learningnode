@@ -1,0 +1,27 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "just learning how to set up web apps in node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslocomb/learningnode.git"
+  },
+  "author": "jslocomb@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jslocomb/learningnode/issues"
+  },
+  "homepage": "https://github.com/jslocomb/learningnode#readme"
+}
